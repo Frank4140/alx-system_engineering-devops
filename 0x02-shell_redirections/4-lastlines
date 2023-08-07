@@ -1,2 +1,2 @@
 #!/bin/bash
-grep /etc/passwd
+grep -n 10 /etc/passwd
